@@ -3,6 +3,19 @@ body {
 
 }
 
+h1 {
+  text-align: center
+}
+
 h2 {
   color: #145A32
 }
+
+img {
+  display: block;
+  margin: auto;
+  height: 700px;
+  width: 700px;
+}
+    
+  
