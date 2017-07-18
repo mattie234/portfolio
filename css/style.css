@@ -13,7 +13,7 @@ h2 {
 
 img {
   display: block;
-  margin: auto;
+  margin: left;
   height: 500px;
   width: 600px;
 }
