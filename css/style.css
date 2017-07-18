@@ -1,21 +1,9 @@
 body {
-  background-color: red;
-
+  background-color: #76D7C4
+  
 }
 
 h1 {
+  font-family: "Lucida Bright";
   text-align: center
 }
-
-h2 {
-  color: #145A32
-}
-
-img {
-  display: block;
-  margin: auto;
-  height: 400px;
-  width: 500px;
-}
-    
-  
