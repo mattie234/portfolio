@@ -67,10 +67,18 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
+  background-image: url('../img/rocks.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   text-align: center;
   background: #2517bc;
   color: white;
-}
+} 
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
